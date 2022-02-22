@@ -7,3 +7,4 @@
 sphinx
 sphinx_rtd_theme
 sphinx-gallery
+pillow>=9.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
